@@ -2,15 +2,15 @@
 
 Current skills <br> 
 ---
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,ts,tailwind,redux,git,github" />
   </a>
 </p>
 
-Have experiece with/interested in <br>
+Have experiece with <br>
 ---
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,cs,dotnet,nestjs,express,mongodb,nodejs,nextjs,postgres,apollo,graphql" />
   </a>
@@ -18,7 +18,7 @@ Have experiece with/interested in <br>
 
 Plan to learn <br>
 ---
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,java,spring,docker" />
   </a>
