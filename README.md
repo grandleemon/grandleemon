@@ -27,6 +27,7 @@ Plan to learn <br>
 Github profile overview
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grandleemon&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grandleemon)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **grandleemon/grandleemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
