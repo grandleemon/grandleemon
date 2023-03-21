@@ -16,7 +16,7 @@ Have experiece with <br>
   </a>
 </p>
 
-Plan to learn <br>
+Plan to try <br>
 ---
 <p>
   <a href="https://skillicons.dev">
