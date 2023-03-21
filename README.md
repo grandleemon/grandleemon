@@ -20,7 +20,7 @@ Plan to learn <br>
 ---
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,java,spring,docker" />
+    <img src="https://skillicons.dev/icons?i=neovim,java,spring,docker,cpp" />
   </a>
 </p>
 
