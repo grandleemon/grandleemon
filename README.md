@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Current skills <br> 
+Most experienced with <br> 
 ---
 <p>
   <a href="https://skillicons.dev">
