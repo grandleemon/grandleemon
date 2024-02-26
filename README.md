@@ -20,7 +20,7 @@ Plan to try <br>
 ---
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,java,spring,docker,cpp" />
+    <img src="https://skillicons.dev/icons?i=neovim,java,spring,docker,go" />
   </a>
 </p>
 
